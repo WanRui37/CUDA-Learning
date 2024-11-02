@@ -19,3 +19,14 @@ table
 | CUDA | 12.2 |
 | pytorch | conda install pytorch==2.1.0 torchvision==0.16.0 torchaudio==2.1.0 pytorch-cuda=12.1 -c pytorch -c nvidia |
 | ninja | conda install conda-forge::ninja |
+
+<table align="center">
+  <tr>
+    <td>Ubuntu</td>
+    <td>20.04.6</td>
+  </tr>
+  <tr>
+    <td>内容3</td>
+    <td>内容4</td>
+  </tr>
+</table>
