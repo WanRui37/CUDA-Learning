@@ -25,4 +25,7 @@
   <tr>
     <td>ninja</td><td>conda install conda-forge::ninja</td>
   </tr>
+  <tr>
+    <td>numba</td><td>conda install numba::numba</td>
+  </tr>
 </table>
