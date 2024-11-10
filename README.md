@@ -20,7 +20,7 @@
     <td>CUDA</td><td>12.2</td>
   </tr>
   <tr>
-    <td>pytorch</td><td>conda install pytorch==2.1.0 torchvision==0.16.0 torchaudio==2.1.0 pytorch-cuda=12.1 -c pytorch -c nvidia</td>
+    <td>pytorch</td><td>conda install pytorch==2.4.1 torchvision==0.19.1 torchaudio==2.4.1 pytorch-cuda=12.1 -c pytorch -c nvidia</td>
   </tr>
   <tr>
     <td>ninja</td><td>conda install conda-forge::ninja</td>
