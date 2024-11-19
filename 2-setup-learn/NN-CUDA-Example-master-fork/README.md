@@ -79,3 +79,8 @@ python3 pytorch/train.py --compiler jit
 python3 pytorch/train.py --compiler setup
 python3 pytorch/train.py --compiler cmake
 ```
+
+### Clean
+```shell
+make clean
+```
