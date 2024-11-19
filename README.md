@@ -28,4 +28,12 @@
   <tr>
     <td>numba</td><td>conda install numba::numba</td>
   </tr>
+  <tr>
+  <td>matplotlib</td><td>conda install matplotlib</td>
+  </tr>
 </table>
+
+## 2-setup-learn
+第二部分是学习setup编译、cmake编译的一些小例子
+
+1、Neural Network CUDA Example原工程地址如后面所示[https://github.com/godweiyang/NN-CUDA-Example](https://github.com/godweiyang/NN-CUDA-Example)
