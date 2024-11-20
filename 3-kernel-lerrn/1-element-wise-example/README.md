@@ -1,4 +1,5 @@
-# Neural Network CUDA Example
+# Element Wise Kernel
+参考代码来自：[https://github.com/DefTruth/CUDA-Learn-Notes/tree/main/elementwise](https://github.com/DefTruth/CUDA-Learn-Notes/tree/main/elementwise)
 
 ## Linux Environments
 * 显卡 GeForce RTX 4090
