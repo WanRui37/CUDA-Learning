@@ -84,3 +84,8 @@ python3 pytorch/train.py --compiler cmake
 ```shell
 make clean
 ```
+
+### Setup卸载add2的库
+```shell
+pip uninstall add2
+```
