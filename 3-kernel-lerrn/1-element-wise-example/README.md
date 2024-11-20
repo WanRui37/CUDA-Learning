@@ -33,6 +33,12 @@ python3 pytorch/setup.py install
 python3 pytorch/time.py
 ```
 
+资源和性能分析使用如下代码，具体profile如图所示
+```shell
+sudo /usr/local/cuda-12.2/bin/ncu -f --replay-mode application -o profile /home/ic611/anaconda3/envs/cuda12_1/bin/python ./pytorch/time.py
+```
+![image](image/pytorch官方和别人写的核的比较.png)
+
 ### Clean
 ```shell
 make clean
